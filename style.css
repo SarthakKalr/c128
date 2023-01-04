@@ -1,0 +1,17 @@
+body{
+    font-family: 'RubikBubbles', cursive;
+    font-weight: bolder;
+    font-size:xx-large;
+}
+#timer{
+    margin-left: 440px;
+}
+#op{
+    font-weight: 900;
+}
+.btn-success{
+    width:50%;
+    color:rgb(0, 200, 255);
+
+}
+
